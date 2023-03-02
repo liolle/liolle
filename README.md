@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="center" style=" width:100%; height:100%">
+<div align="center" style=" width:100%; height:100%;  border-radius:15px;">
 
 ![MasterHead](./SdevBanner.gif)
 
@@ -24,13 +24,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Etienne</h1>
 <h3 align="center"> A passionate sofware developer </h3>
-
-
-<div style=" display:flex; justify-content:center;">
-
-<img align="center" style=" border-radius:15px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MyYzg2NWM3NzMwMjMxMzJmOGEwYTYzNjE1M2M0Mjg4YmE1YjcwZCZjdD1n/KGhpQ5NMoWKQurlHwI/giphy.gif"/>
-
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
