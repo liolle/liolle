@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-<div style=" display:flex; justify-content:center;">
+<div align="center" style=" width:100%; height:100%">
 
 ![MasterHead](./SdevBanner.gif)
 
