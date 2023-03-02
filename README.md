@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 
+[![MasterHead](./SdevBanner.gif)]()
 <div style=" display:flex; justify-content:center;">
 
-![MasterHead](./SdevBanner.gif)
 
 </div>
 
