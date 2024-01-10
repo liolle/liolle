@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning `bash`
 - 📖 I’m currently reading [Refactoring (Martin Fowler)](https://martinfowler.com/books/refactoring.html)
 - 👯 I’m always looking to collaborate.
-- 💬 Ask me about <strong>Next.js</strong>, <strong>Angular</strong>.
 - 📫 How to reach me: https://www.linkedin.com/in/etiennelaurentdev/
 
 ## Tech stack
