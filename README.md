@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Etienne</h1>
 <h3 align="center">Web developer</h3>
 
-- 🔭 I’m currently catching up on `advent of code`.
-- 🌱 I’m currently learning `bash`
+- 🌱 I’m currently learning `WebGPU`
 - 📖 I’m currently reading [Refactoring (Martin Fowler)](https://martinfowler.com/books/refactoring.html)
 - 👯 I’m always looking to collaborate.
 - 📫 How to reach me: https://www.linkedin.com/in/etiennelaurentdev/
