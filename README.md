@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Etienne</h1>
-<div style="background-image: url('.github/SdevBanner.gif'); border-radius:10px ;padding:10px;margin-bottom:20px;min-height:180px;height:180px">
-<a href=".github/SdevBanner.gif">.</a>
+<div id="banner" >
 </div>
+
+<style>
+    #banner{
+        background-image: url('https://github.com/liolle/liolle/blob/main/.github/SdevBanner.gif?raw=true');
+        border-radius:10px ;
+        padding:10px;
+        height:200px;
+        weight:100%;
+        background-size:contain;
+        margin-bottom:20px
+    }
+</style>
 
 - 🌱 I’m currently learning `WebGPU`
 - 📖 I’m currently reading [Refactoring (Martin Fowler)](https://martinfowler.com/books/refactoring.html)
