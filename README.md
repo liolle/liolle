@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Etienne</h1>
-<h3 align="center">Web developer</h3>
+<div style="background-image: url('.github/SdevBanner.gif'); border-radius:10px ;padding:10px;margin-bottom:20px;min-height:180px">
+
+</div>
 
 - 🌱 I’m currently learning `WebGPU`
 - 📖 I’m currently reading [Refactoring (Martin Fowler)](https://martinfowler.com/books/refactoring.html)
