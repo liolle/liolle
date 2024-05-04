@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Etienne</h1>
-<div style="background-image: url('.github/SdevBanner.gif'); border-radius:10px ;padding:10px;margin-bottom:20px;min-height:180px">
-
+<div style="background-image: url('.github/SdevBanner.gif'); border-radius:10px ;padding:10px;margin-bottom:20px;min-height:180px;height:180px">
+<a href=".github/SdevBanner.gif">.</a>
 </div>
 
 - 🌱 I’m currently learning `WebGPU`
