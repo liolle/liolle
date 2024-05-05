@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Etienne</h1>
 
-<img src=".github/icons/banner.svg" height="200"/>
-
 - 🌱 I’m currently learning `WebGPU`
 - 📖 I’m currently reading [Refactoring (Martin Fowler)](https://martinfowler.com/books/refactoring.html)
 - 👯 I’m always looking to collaborate.
