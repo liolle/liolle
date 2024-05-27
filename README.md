@@ -42,9 +42,6 @@
 <a href="https://nodejs.org/" target="_blank"> 
     <img src=".github/icons/nodejs.svg" style="border-radius:4px; width:55px;margin:5px"/>
 </a>
-<a href="https://adonisjs.com/" target="_blank"> 
-    <img src=".github/icons/adonisjs.svg" style="border-radius:4px; width:55px;margin:5px"/>
-</a>
 <a href="https://www.postgresql.org/" target="_blank"> 
     <img src=".github/icons/postgresql.svg" style="border-radius:4px; width:55px;margin:5px"/>
 </a>
