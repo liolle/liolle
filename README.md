@@ -46,7 +46,3 @@
 <a href="https://www.docker.com/" target="_blank"> 
     <img src=".github/icons/docker.svg" style="border-radius:4px; width:55px;margin:5px"/>
 </a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liolle&show_icons=true&locale=en&layout=compact" alt="liolle" /></p>
-
-<img src="https://streak-stats.demolab.com?user=liolle"></img>
